@@ -92,4 +92,5 @@ July 2025 was fundamentally about **laying foundations rather than building monu
 ---
 
 *Newsletter generated using Claude Code analysis of vault content from July 2025*
+
 *If you have any questions (or want access to other resources, lmk!), send a message via iMessage or WhatsApp (+63 995 509 0989)*

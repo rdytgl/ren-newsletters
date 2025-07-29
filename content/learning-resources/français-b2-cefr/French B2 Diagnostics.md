@@ -11,7 +11,7 @@ tags:
 date: 2025-07-29
 ---
 
-==**Note**: 1/7==
+**Note**: 1/7
 
 ## Question 1
 Transforme la phrase suivante en discours indirect:
