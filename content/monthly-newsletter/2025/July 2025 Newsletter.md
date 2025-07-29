@@ -16,12 +16,12 @@ tags: [newsletter, monthly-summary, personal-growth, career, mental-health, refl
 - **Fixed my [GitHub portfolio](https://github.com/rdytgl/gen-ai-learning-repo)** and prepared for showcasing data science projects
 
 ### **Academic & Language Progress**
-- **Advanced French language skills** - took B2 level diagnostics (scored 1/8 initially but shows commitment to improvement)
+- **Advanced French language skills** - took [[French B2 Diagnostics|B2 level diagnostics]] (scored 1/8 initially but shows commitment to improvement)
 - **Continued CS50x progress** and planned README documentation for problem sets
 - **Launched traffic analysis project** for the Philippines with proper data science methodology and project structure
 
 ### **Content Creation & Analysis**
-- **Wrote comprehensive BL series review** analyzing *Cherry Magic* as my best-watched BL series
+- **Wrote comprehensive BL series review** analyzing [[Cherry Magic Review|Cherry Magic as my best-watched BL series]]
 - **Created technical scripts** including a YouTube music player to solve Mac performance issues
 - **Engaged in deep media analysis** comparing multiple Thai BL series with nuanced critiques
 
@@ -54,7 +54,7 @@ tags: [newsletter, monthly-summary, personal-growth, career, mental-health, refl
 ### **In Progress:**
 - CS50x problem sets and documentation
 - Metro Manila traffic data analysis
-- Language learning (French, Thai expressions/vocab)
+- Language learning ([[Français B2 Journey|French]], [[thai expressions|Thai expressions]]/[[thai vocab|vocab]])
 - BL series viewing and analysis
 
 ### **Planned:**
