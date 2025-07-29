@@ -17,7 +17,7 @@ date: 2025-07-29
 Transforme la phrase suivante en discours indirect:
 > Elle dit: « Je viendrai demain. »
 
-❌ **Ma réponse** : ~~Tu viendrais d’ici?~~\n
+❌ **Ma réponse** : ~~Tu viendrais d’ici?~~<br>
 ✅ **Réponse correcte** : ==« Elle dit qu'elle viendra demain. »==
 
 >[!note]- Explication
@@ -41,7 +41,7 @@ Transforme la phrase suivante en discours indirect:
 ## Question 2
 Conjugue le verbe **s'asseoir** au **subjontif présent**, **à la 1ʳᵉ personne du pluriel.**
 
-❌ **Ma réponse** : ~~Nous asesons~~\n
+❌ **Ma réponse** : ~~Nous asesons~~<br>
 ✅ **Réponse correcte** : ==« que nous nous asseyions »== / ==« que nous nous assoyions »==
 
 >[!note]- Explication
@@ -66,7 +66,7 @@ Conjugue le verbe **s'asseoir** au **subjontif présent**, **à la 1ʳᵉ person
 Traduire cette phrase en français:
 > "He would have come if you had invited him."
 
-❌ **Ma réponse** : ~~Il voyez si tu le invitez~~\n
+❌ **Ma réponse** : ~~Il voyez si tu le invitez~~<br>
 ✅ **Réponse correcte** : ==« Il serait venu si tu l'avais invité. »==
 
 >[!note]- Explication
@@ -95,7 +95,7 @@ Traduire cette phrase en français:
 ## Question 4
 Quelle est la difference entre **« en »** et **« y »** ? Donne un exemple pour chacun.
 
-❌ **Ma réponse** : ~~Je ne sais pas~~\n
+❌ **Ma réponse** : ~~Je ne sais pas~~<br>
 ✅ **Réponse correcte** : ==**en** remplace un **complément introduit** par **de** (*quantité, origine, idée*), et **y** remplace un **complément introduit** par **à** (*un lieu*) ==
 
 >[!note]- Explication
@@ -124,7 +124,7 @@ Choisis la bonne option :
 > b) apportes
 > c) apporteras
 
-❌ **Ma réponse** : ~~c~~\n
+❌ **Ma réponse** : ~~c~~<br>
 ✅ **Réponse correcte** : ==b==
 
 >[!note]- Explication
@@ -171,7 +171,7 @@ Quelle est la difference entre **« connaître »** et **« savoir »** ? Donne 
 ## Question 7
 Conjugue le verbe **« lire »** au **plus-que-parfait**, **à la 3ᵉ personne du singulier**.
 
-❌ **Ma réponse** : ~~Je ne sais pas~~\n
+❌ **Ma réponse** : ~~Je ne sais pas~~<br>
 ✅ **Réponse correcte** : ==« Il avait lu. »==
 
 >[!note]- Explication
@@ -192,7 +192,7 @@ Comment traduirais-tu en français :
 > "While I was eating, he was calling me."
 > Essaie de garder le bon temps verbal pour exprimer la simultanéité.
 
-❌ **Ma réponse** : ~~Je suis mangeant, il me appelle~~\n
+❌ **Ma réponse** : ~~Je suis mangeant, il me appelle~~<br>
 ✅ **Réponse correcte** : ==« Pendant que je mangeais, il m'appelait. »==
 
 >[!note]- Explication
