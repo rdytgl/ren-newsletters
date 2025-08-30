@@ -2,12 +2,15 @@
 title: ren’s corner 🌸
 draft: false
 description: a smol website for catching up :​D
+tags:
+  - newsletter
 ---
 
 bonjour ! c’est ren and this is my little slice of the internet :D
 
 ## 🗞️ newsletters
 * [[July 2025 Newsletter|🌱 first monthly newsletter (jul 2025)]]
+* [[August 2025 Newsletter|⚓ quiet anchoring = progress (aug 2025)]]
 
 ## 📺 media i'm consuming
 
@@ -50,6 +53,18 @@ bonjour ! c’est ren and this is my little slice of the internet :D
     <p style="text-align: center;">Marry My Dead Body (Netflix)</p>
   </div>
 </div>
+### 🔎 content analysis
+
+<div style="overflow-x: auto; white-space: nowrap; scroll-snap-type: x mandatory; padding-bottom: 1rem;">
+  <div style="display: inline-block; width: 160px; margin-right: 1rem; scroll-snap-align: start;">
+    <a href= “” target="_blank">
+      <img src="" alt="Cherry Magic 30" style="height: 250px; object-fit: cover; width: 100%; border-radius: 8px;"/>
+    </a>
+    <p style="text-align: center;">Cherry Magic 30</p>
+  </div>
+</div>
+
+
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <div style="flex: 1;">

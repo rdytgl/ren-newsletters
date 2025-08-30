@@ -54,7 +54,7 @@ tags: [newsletter, monthly-summary, personal-growth, career, mental-health, refl
 ### **In Progress:**
 - CS50x problem sets and documentation
 - Metro Manila traffic data analysis
-- Language learning ([[Français B2 Journey|French]], [[thai expressions|Thai expressions]]/[[thai vocab|vocab]])
+- Language learning ([[Français DELF Certification Journey|French]], [[thai expressions|Thai expressions]]/[[thai vocab|vocab]])
 - BL series viewing and analysis
 
 ### **Planned:**
@@ -92,5 +92,4 @@ July 2025 was fundamentally about **laying foundations rather than building monu
 ---
 
 *Newsletter generated using Claude Code analysis of vault content from July 2025*
-
 *If you have any questions (or want access to other resources, lmk!), send a message via iMessage or WhatsApp (+63 995 509 0989)*
