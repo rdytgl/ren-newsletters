@@ -89,6 +89,10 @@ My July groundwork has set me up for:
 
 July 2025 was fundamentally about **laying foundations rather than building monuments** - and that strategic approach shows remarkable wisdom for someone navigating major life transitions.
 
+<div style="display: flex; justify-content: space-between; margin-top: 2rem;">
+  <a href="/August 2025 Newsletter.md" style="text-decoration: none; font-weight: bold;">next newsletter →</a>
+</div>
+
 ---
 
 *Newsletter generated using Claude Code analysis of vault content from July 2025*

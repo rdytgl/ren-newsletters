@@ -91,6 +91,8 @@ August 2025 was about **learning to float rather than forcing momentum** - disco
 <div style="display: flex; justify-content: space-between; margin-top: 2rem;">
   <a href="/July 2025 Newsletter.md" style="text-decoration: none; font-weight: bold;">← previous newsletter </a>
 </div>
+
 ---
+
 *Newsletter generated using Claude Code analysis of vault content from August 2025*
 *If you have any questions (or want access to other resources, lmk!), send a message via iMessage or WhatsApp (+63 995 509 0989)*

@@ -19,10 +19,10 @@ bonjour ! c’est ren and this is my little slice of the internet :D
 
 <div style="overflow-x: auto; white-space: nowrap; scroll-snap-type: x mandatory; padding-bottom: 1rem;">
   <div style="display: inline-block; width: 160px; margin-right: 1rem; scroll-snap-align: start;">
-    <a href="https://youtube.com/playlist?list=PLszepnkojZI7XHeCMSdOaLVAxfQ6Pagdn&si=UtyVNMa0P4qkGTuq" target="_blank">
-      <img src="https://i.mydramalist.com/RB2Q5Y_4f.jpg" alt="Hidden Agenda" style="height: 250px; object-fit: cover; width: 100%; border-radius: 8px;"/>
+    <a href="https://www.viu.com/ott/ph/en/vod/2660326/Revenged-Love" target="_blank">
+      <img src="https://i.mydramalist.com/YY6mro_4f.jpg" alt="Revenged Love" style="height: 250px; object-fit: cover; width: 100%; border-radius: 8px;"/>
     </a>
-    <p style="text-align: center;">Hidden Agenda (YouTube)</p>
+    <p style="text-align: center;">Revenged Love (Viu)</p>
   </div>
 
   <div style="display: inline-block; width: 160px; margin-right: 1rem; scroll-snap-align: start;">
@@ -57,25 +57,24 @@ bonjour ! c’est ren and this is my little slice of the internet :D
 
 <div style="overflow-x: auto; white-space: nowrap; scroll-snap-type: x mandatory; padding-bottom: 1rem;">
   <div style="display: inline-block; width: 160px; margin-right: 1rem; scroll-snap-align: start;">
-    <a href= “” target="_blank">
-      <img src="" alt="Cherry Magic 30" style="height: 250px; object-fit: cover; width: 100%; border-radius: 8px;"/>
+    <a href= “Cherry Magic Review.md” target="_blank">
+      <img src="https://i.mydramalist.com/jQXrew_4f.jpg" alt="Cherry Magic 30" style="height: 250px; object-fit: cover; width: 100%; border-radius: 8px;"/>
     </a>
     <p style="text-align: center;">Cherry Magic 30</p>
   </div>
 </div>
-
-
-
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <h3>🎵 album i'm obsessed about</h3>
+    <h3>🎵 playlist i'm obsessed about</h3>
     <!-- Apple Music Embed -->
-    <iframe allow="autoplay *; encrypted-media *; fullscreen *"
+    <!--<iframe allow="autoplay *; encrypted-media *; fullscreen *"
             frameborder="0"
             height="150"
             style="width: 100%; max-width: 350px; overflow: hidden; border-radius:10px;"
             sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
-            src="https://embed.music.apple.com/ph/album/virgin/1810905299"></iframe>
+            src="https://embed.music.apple.com/ph/album/virgin/1810905299"></iframe>-->
+    <!-- YT Embed -->
+		    <iframe height="150" src="https://www.youtube.com/embed/3JgYvsqc0LA?si=wx9_5BI4XkARVw2o" title="Kehlani Playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
   <div style="flex: 1; text-align: center;">
