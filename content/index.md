@@ -11,6 +11,7 @@ bonjour ! c’est ren and this is my little slice of the internet :D
 ## 🗞️ newsletters
 * [[July 2025 Newsletter|🌱 first monthly newsletter (jul 2025)]]
 * [[August 2025 Newsletter|⚓ quiet anchoring = progress (aug 2025)]]
+* [[September 2025 Newsletter|🔁 the great reset (sept 2025)]]
 
 ## 📺 media i'm consuming
 
