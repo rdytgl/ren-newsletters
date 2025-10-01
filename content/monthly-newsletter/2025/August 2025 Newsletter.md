@@ -90,6 +90,7 @@ August's foundation of self-understanding sets up for:
 August 2025 was about **learning to float rather than forcing momentum** - discovering that gentle, consistent action in alignment with natural energy creates more sustainable progress than pushing through resistance.
 <div style="display: flex; justify-content: space-between; margin-top: 2rem;">
   <a href="/July 2025 Newsletter.md" style="text-decoration: none; font-weight: bold;">← previous newsletter </a>
+  <a href="/September 2025 Newsletter.md" style="text-decoration: none; font-weight: bold;"> next newsletter →</a>
 </div>
 
 ---
